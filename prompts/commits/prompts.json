@@ -1,4 +1,5 @@
 {
   "name": "commit task prompts",
-  "description": "read this if your task is about git commit."
+  "description": "read this if your task is about git commit.",
+  "version": "1.0.0"
 }
