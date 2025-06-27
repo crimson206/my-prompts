@@ -1,6 +1,6 @@
 {
   "name": "cd-ci-python",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "db-repo": "https://github.com/crimson206/my-prompts",
   "root-dir": "cd-ci-python",
